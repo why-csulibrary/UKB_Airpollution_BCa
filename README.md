@@ -1,0 +1,1 @@
+This repository provides a streamlined public version of the analysis workflow for the study on air pollution axes, proteomic response domains, and bladder cancer in the UK Biobank. The uploaded materials are intended primarily to illustrate the analytical framework and processing logic used in the main study, rather than to serve as a fully one-click reproduction package.
